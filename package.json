@@ -1,0 +1,21 @@
+{
+  "name": "task2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "controller": "^1.0.0",
+    "express": "^4.17.1",
+    "mysql": "^2.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  },
+  "scripts": {
+    "start": "node app.js",
+    "backend": "nodemon app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
